@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org._10ne.gradle.rest
+package org.tenne.gradle.rest
 
 import groovyx.net.http.HttpResponseDecorator
 import groovyx.net.http.RESTClient
